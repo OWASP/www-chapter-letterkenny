@@ -8,6 +8,9 @@ level: 0
 region: Europe
 
 auto-migrated: 1
+meetup-group: OWASP-Letterkenny-Chapter
+country: Ireland
+postal-code: 
 
 ---
 
